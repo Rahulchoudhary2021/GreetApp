@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,gBAAkB,CAClB,aAAe,CACf,wBAAmC,CACnC,cAAe,CACf,QAAS,CACT,MAAO,CACP,UACF","file":"main.63fb3ead.chunk.css","sourcesContent":[".footer{\n  margin-top: 0.1rem;\n  padding: 0.1rem;\n  background-color: rgb(235, 195, 64);\n  position: fixed;\n  bottom: 0;\n  left: 0;\n  width: 100%;\n}"]}

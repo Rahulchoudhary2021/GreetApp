@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/greetapp/static/css/main.63fb3ead.chunk.css",
+    "main.js": "/greetapp/static/js/main.6b542988.chunk.js",
+    "main.js.map": "/greetapp/static/js/main.6b542988.chunk.js.map",
+    "runtime-main.js": "/greetapp/static/js/runtime-main.25adee02.js",
+    "runtime-main.js.map": "/greetapp/static/js/runtime-main.25adee02.js.map",
+    "static/js/2.ae91b8bd.chunk.js": "/greetapp/static/js/2.ae91b8bd.chunk.js",
+    "static/js/2.ae91b8bd.chunk.js.map": "/greetapp/static/js/2.ae91b8bd.chunk.js.map",
+    "index.html": "/greetapp/index.html",
+    "static/css/main.63fb3ead.chunk.css.map": "/greetapp/static/css/main.63fb3ead.chunk.css.map",
+    "static/js/2.ae91b8bd.chunk.js.LICENSE.txt": "/greetapp/static/js/2.ae91b8bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25adee02.js",
+    "static/js/2.ae91b8bd.chunk.js",
+    "static/css/main.63fb3ead.chunk.css",
+    "static/js/main.6b542988.chunk.js"
+  ]
+}
